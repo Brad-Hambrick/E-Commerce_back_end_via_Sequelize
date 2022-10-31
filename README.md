@@ -5,7 +5,7 @@ This project was completed in order to showcase my ability to refactor a back en
 [E-commerce_back_end_via_Sequelize](https://github.com/Brad-Hambrick/E-commerce_back_end_via_Sequelize)
 
 ##  Walk-through Video
-[E-commerce_back_end_via_Sequelize walk through video]()
+[E-commerce_back_end_via_Sequelize walk through video](https://drive.google.com/file/d/152EKPC8RrwRQU5qgQQXAtYwNxH7o4iEE/view?usp=share_link)
 
 ## Description
 This project was completed in order to showcase my knowledge of working with back end programming.  This project was refactored using MySql2, Sequelize, and dotenv.
@@ -19,7 +19,7 @@ Your challenge is to build the back end for an e-commerce site. You’ll take a 
 ## Badges
 MySql by Oracle.
 
-All of the coding methods in this project were those that were learned during the Vanderbilt Coding Bootcamp as well as some open source searches on mysql.  
+All of the coding methods in this project were those that were learned during the Vanderbilt Coding Bootcamp as well as some open source searches on mysql and sequelize.  
 
 
 
